@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\Source\\Unreal101\\Unreal101.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\.vscode\\compileCommands_Default\\Unreal101.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\Source\\Unreal101\\Unreal101.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\.vscode\\compileCommands_Default\\Unreal101.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\Source\\Unreal101\\Unreal101.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Gerald\\Desktop\\Unreal Projects\\GameDevHQ\\Unreal101\\.vscode\\compileCommands_Default\\Unreal101.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
